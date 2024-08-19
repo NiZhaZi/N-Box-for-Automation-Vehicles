@@ -1,0 +1,18 @@
+{
+    "n_box_main":{
+        "information":{
+            "authors":"NZZ",
+            "name":"N-Box Vehicle Information",
+            "value":100
+        },
+        "slotType" : "Camso_Mod",
+        "slots":[
+            ["type", "default", "description"],
+        ]
+        "controller": [
+            ["fileName"],
+            ["acc"],
+            //["vehicleInfo"],
+        ],
+    },
+}
